@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900793266782",
+    "project_id": "couper-2b258",
+    "storage_bucket": "couper-2b258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900793266782:android:485610574ff1807384bacf",
+        "android_client_info": {
+          "package_name": "com.example.couper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900793266782-pglqk075h9fsvecpb8ch1c1i3cat0kq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ4oDhfW-qE_jEhU2ESAa1n3VZW8VMdbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900793266782-pglqk075h9fsvecpb8ch1c1i3cat0kq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
